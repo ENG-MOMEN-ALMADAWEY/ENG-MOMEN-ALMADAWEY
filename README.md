@@ -20,7 +20,6 @@ Building beautiful, scalable, and high-performance cross-platform mobile applica
 - 🔥 Learning Clean Architecture & Design Patterns
 - 🌱 Currently learning Firebase & REST APIs
 - 💼 Open to Flutter Developer opportunities
-
 ---
 # 🛠️ Skills
 
@@ -71,6 +70,7 @@ Building beautiful, scalable, and high-performance cross-platform mobile applica
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Backend
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
