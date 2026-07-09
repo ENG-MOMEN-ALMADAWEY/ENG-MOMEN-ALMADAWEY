@@ -22,7 +22,7 @@ Building beautiful, scalable, and high-performance cross-platform mobile applica
 - 💼 Open to Flutter Developer opportunities
 
 ---
-# 🛠️ المهارات
+# 🛠️ Skills
 
 ### Mobile
 
@@ -122,32 +122,12 @@ Weather forecast application using REST APIs.
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
-
----
-
 # 📫 Contact
 
-📧 YOUR_EMAIL@gmail.com
+📧 eng.momen.almadawey@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR_PROFILE
+https://www.linkedin.com/in/momen-almadawey-b18042346/in/YOUR_PROFILE
 
 🌍 Portfolio:
 https://YOUR_PORTFOLIO.com
