@@ -7,7 +7,7 @@ Building beautiful, scalable, and high-performance cross-platform mobile applica
 
 <p align="center">
 <a href="https://www.linkedin.com/in/momen-almadawey-b18042346/in/YOUR-LINKEDIN">LinkedIn</a> •
-<a href="eng.momen.almadawey@gmail.com">Email</a> •
+<a href="mailto:eng.momen.almadawey@gmail.com">Email</a> •
 <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
 </p>
 
