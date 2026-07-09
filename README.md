@@ -20,44 +20,7 @@ Building beautiful, scalable, and high-performance cross-platform mobile applica
 - 🔥 Learning Clean Architecture & Design Patterns
 - 🌱 Currently learning Firebase & REST APIs
 - 💼 Open to Flutter Developer opportunities
----
-# 🛠️ Skills
-
-### Mobile
-
-- Flutter
-- Dart
-
-### State Management
-
-- Bloc
-- Cubit
-- Provider
-
-### Backend
-
-- Firebase
-- REST API
-- Dio
-
-### Architecture
-
-- Clean Architecture
-- MVVM
-
-### Database
-
-- SQLite
-- Hive
-- Shared Preferences
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Android Studio
-
+---  
 
 # 🚀 Tech Stack
 
@@ -78,9 +41,9 @@ Building beautiful, scalable, and high-performance cross-platform mobile applica
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 
