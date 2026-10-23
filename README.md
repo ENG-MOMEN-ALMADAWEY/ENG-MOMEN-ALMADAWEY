@@ -90,7 +90,7 @@ Weather forecast application using REST APIs.
 📧 eng.momen.almadawey@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/momen-almadawey-b18042346
+https://www.linkedin.com/in/momen-almadawey
 
 🌍 Portfolio:
 https://YOUR_PORTFOLIO.com
